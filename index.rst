@@ -49,24 +49,8 @@ How long does the yt.be/activate process take?
 
 The `yt.be/activate <https://yt.be/activate>`_ process typically takes just 2 to 5 minutes to complete. It begins with opening the YouTube TV app on your smart device, where you'll receive an activation code. Then, using a phone or computer, you visit yt.be/activate, sign in with your Google account, and enter the code displayed on your TV screen. Once submitted, the device links to your account almost instantly. 
 
-Troubleshooting Yt.be/activate Not Working
-==========================================
 
-Facing issues? Try these:
-
-+-------------------------+---------------------------------------------------+
-| **Issue**              | **Solution**                                      |
-+=========================+===================================================+
-| Code expired           | Refresh YouTube TV app to get a new code.         |
-+-------------------------+---------------------------------------------------+
-| “Invalid Code” error   | Double-check for typos or refresh and retry.      |
-+-------------------------+---------------------------------------------------+
-| Activation page error  | Clear browser cache or use incognito mode.        |
-+-------------------------+---------------------------------------------------+
-| Can’t sign in          | Make sure you're using the correct Google account.|
-+-------------------------+---------------------------------------------------+
-
-What to Do If You Entered the Wrong Code on Yt.be/activate
+What to Do If You Entered the Wrong Code on Yt.be/activate?
 ==========================================================
 
 If you accidentally enter the **wrong activation code** on `yt.be/activate <https://yt.be/activate>`_, don’t worry—it’s a common issue and easily fixable. Here's what you should do:
@@ -89,9 +73,6 @@ If you accidentally enter the **wrong activation code** on `yt.be/activate <http
    - **Double-check** each character (codes are case-sensitive and can include similar-looking characters like **O** and **0**).
 
 5. After entering the correct code, your device should successfully link to your YouTube or YouTube TV account.
-
-.. tip::
-   ✅ **Tip:** Always keep your TV screen open on the code page until you’ve completed the activation. If you leave the screen or take too long, the code may reset.
 
 
 
