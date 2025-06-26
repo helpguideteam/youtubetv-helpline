@@ -110,12 +110,15 @@ FAQ: Yt.be/activate and YouTube TV
 ==================================
 
 **Q1. Is Yt.be/activate safe to use?**  
+
 Yes, it’s the official YouTube domain for device activation.
 
 **Q2. Do I need a subscription to use Yt.be/activate?**  
+
 Yes, YouTube TV requires a paid subscription to stream live TV channels.
 
 **Q3. How long does the activation code last?**  
+
 Codes typically expire after 10 minutes. You can generate a new one by restarting the app.
 
 Conclusion
