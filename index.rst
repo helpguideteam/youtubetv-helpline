@@ -8,7 +8,7 @@ To set up YouTube TV using `yt.be/activate <https://yt.be/activate>`_, open the 
 
 .. image:: get-start-button.png
    :alt: Yt.be/activate
-   :target: https://sites.google.com/view/wwwytbeactivate/
+   :target: https://pre.im/?3X7UunD01l84kdKDQUBwhbKzcD4cwPKgNlS3FvA7RtrP2aFRXSNHMsRS6YRWTbuGWfi2G
    :align: center
 
 
